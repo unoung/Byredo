@@ -1,0 +1,20 @@
+
+
+.wrap{
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+header,section,footer{
+    width: 100%;
+    float: left;
+    /* background-color: antiquewhite; */
+}
+
+.in_header,
+.container,
+.in_footer{
+    width: 100%;
+    float: left;
+    /* background-color: aquamarine; */
+}
